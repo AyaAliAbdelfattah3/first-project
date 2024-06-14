@@ -1,0 +1,105 @@
+body h1{
+    color: green;
+    text-align: center;
+    font-size: 40px;
+}
+
+thead{
+    background-color: rgba(238, 143, 143, 0.685) ;
+}
+tbody{
+    background-color: rgb(144, 146, 134);
+    text-align: center;
+    direction: ltr;
+}
+
+
+
+ 
+
+
+.parent{
+    display: flex;
+  
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 100px;
+}
+section{
+    direction: rtl;
+}
+
+img{
+    width: 250px;
+*
+    
+}
+
+table{
+    align-content: center;
+    width: 40%;
+    height: 50%;
+    border: 1px solid black;
+    margin: 100px;
+    
+}
+body{
+    background-image: url(images/خلفيات\ سوداء\ 2014\ \(4\).jpg);
+    background-size: cover;
+    direction: rtl;
+} 
+p{
+    color: green;
+    font-size: 20px;
+}
+
+h1{
+    color: blue;
+    font-size: 29px;
+    margin: 90px;
+}
+
+.hhh{
+    color: rgb(17, 247, 17);
+    text-align: center;
+}
+
+.pic{
+    width: 400px;
+    margin-right: 450px;
+    
+}
+.hh2{
+    color: rgb(132, 243, 147);
+    font-size: 40px;
+    direction: rtl;
+}
+.ool{
+    color: white;
+    font-size: 35px;
+    direction: rtl;
+}
+
+.link1{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.back{
+    background-image: url(images/66.jpg);
+    background-size: cover;
+    text-align: center;
+    margin-top: 200px;
+}
+.headline{
+    color: rgb(56, 224, 34);
+}
+.headline2{
+    color: green;
+    font-size: 40px;
+}
+
+button{
+    margin-right: 1200px;
+}
+
